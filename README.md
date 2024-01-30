@@ -32,7 +32,7 @@ b) Crea el archivo tabla_ex_2.html e imita la siguiente tabla - 1 punto
 
 
   
-## **2. Formularios - 3,5 puntos**
+## **2. Formularios - 4,5 puntos**
 
 Realiza los siguientes apartados sobre formularios:
 
