@@ -36,13 +36,13 @@ b) Crea el archivo tabla_ex_2.html e imita la siguiente tabla - 1 punto
 
 Realiza los siguientes apartados sobre formularios:
 
-  a) Crea el archivo form_ex_1.html e imita el siguiente formulario. Las opciones del  selector son: Efectivo, Tarjeta. - 1 punto
+  a) Crea el archivo form_ex_1.html e imita el siguiente formulario. Las opciones del  selector son: Efectivo, Tarjeta. - 1,5 punto
 
 ![form1](https://github.com/teacherandresf/recuperacion_ud2/assets/145907219/aea36927-4a7d-4ad6-a9ed-469b71a0d472)
 
 
 
-b) Generar el formulario siguiente de acuerdo a los siguientes requisitos en el archivo form_ex_2.html - 1 punto
+b) Generar el formulario siguiente de acuerdo a los siguientes requisitos en el archivo form_ex_2.html - 1,5 punto
 * Hay un control para indicar la fecha.
 * Hay un control para elegir ficheros.
 * Contiene un input de tipo radio con las opciones: name «procesador» , value «procesadoramd» y el texto «AMD», radio con el name «procesador» , value «procesadorintel_i5» y el texto «Intel i5», radio con el name «procesador» , value «procesadorintel_i7» y el texto «Intel i7».
